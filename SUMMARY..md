@@ -1,5 +1,5 @@
 # Summary
 
 * Basics
-   * Permissions File Folders
+   * [Permissions File Folders](permissions_file_folders.md)
 
