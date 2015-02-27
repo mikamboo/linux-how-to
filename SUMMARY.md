@@ -5,5 +5,5 @@
 * [Permissions](permissions.md)
 * Docker
    * [install](docker_install.md)
-   * [Docker](docker.md)
+   * [Proxy](docker_proxy.md)
 
