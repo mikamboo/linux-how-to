@@ -2,5 +2,5 @@
 
 * Permissions
 * SSH
-* SCRIPTING
+* Bash scripting
 
