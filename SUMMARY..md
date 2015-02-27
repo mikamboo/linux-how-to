@@ -2,4 +2,5 @@
 
 * Permissions
 * SSH
+* SCRIPTING
 
