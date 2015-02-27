@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [About](README.md)
 * [SSH](ssh.md)
 * [Permissions](permissions.md)
 * Docker
