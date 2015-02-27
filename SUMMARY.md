@@ -6,7 +6,4 @@
    * [Permissions](permissions.md)
    * [Docker](docker.md)
 * Docker
-* [Bash scripting](bash_scripting.md)
-   * Docker
-   * Docker
 
