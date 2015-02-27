@@ -1,7 +1,11 @@
-# linux-how-to
+# Linux How To ...
 
-Linux snippets book
+Linux snippets book (debian based distributions)
+
+__AUTHORS__ 
+
+* [@mikamboo](https://github.com/mikamboo)
 
 __LINKS__
 
-* [LinuxDoc : Bash-Prog-Intro-HOWTO](http://www.linuxdoc.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc8)
+* [Bash-Prog-Intro-HOWTO](http://www.linuxdoc.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc8)
