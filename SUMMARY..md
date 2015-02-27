@@ -1,6 +1,6 @@
 # Summary
 
 * Permissions
-* SSH
+* [SSH](ssh.md)
 * Bash scripting
 
