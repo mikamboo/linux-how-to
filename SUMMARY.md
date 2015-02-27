@@ -6,6 +6,6 @@
    * [Permissions](permissions.md)
    * [Docker](docker.md)
 * Docker
-   * [Docker](docker.md)
    * [install](docker_install.md)
+   * [Docker](docker.md)
 
