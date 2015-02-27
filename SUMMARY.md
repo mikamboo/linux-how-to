@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Permissions](permissions.md)
 * Bash scripting
+* [Permissions](permissions.md)
 * Summary
    * [SSH](ssh.md)
    * y
