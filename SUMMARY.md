@@ -5,8 +5,6 @@
    * [SSH](ssh.md)
    * [Permissions](permissions.md)
    * [Docker](docker.md)
-* Docker
-   * tes
 * [Bash scripting](bash_scripting.md)
    * test
    * Docker
