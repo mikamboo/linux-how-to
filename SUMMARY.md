@@ -6,4 +6,5 @@
    * [SSH](ssh.md)
    * [Permissions](permissions.md)
    * [Docker](docker.md)
+* Bash
 
