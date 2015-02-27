@@ -9,7 +9,7 @@ Use the ```-c``` option to specify output format.
 ```bash
 stat -c "%a %A %n" *
 ```
-Where ```%a``` gives access rights in octal, ```%n``` gives file name
+Where ```%a``` gives access rights in octal, ```%n``` gives file name.
 
 
 
