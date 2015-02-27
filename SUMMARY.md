@@ -7,4 +7,5 @@
    * [Permissions](permissions.md)
    * [Docker](docker.md)
 * Docker
+   * install
 
