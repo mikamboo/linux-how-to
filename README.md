@@ -4,7 +4,7 @@ Linux snippets book (for debian based distributions)
 
 __AUTHORS__ 
 
-* [@mikamboo](https://github.com/mikamboo)
+* [@_mikamboo](https://github.com/mikamboo)
 
 __LINKS__
 
