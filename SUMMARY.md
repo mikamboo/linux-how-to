@@ -5,7 +5,7 @@
 * [Commons](commons.md)
 * Network
    * Interfaces
-   * Comons
+   * Commons
 * [Permissions](permissions.md)
 * Docker
    * [install](docker_install.md)
