@@ -28,9 +28,7 @@ $ test -f "/var/lib/boot2docker/profile" && . "/var/lib/boot2docker/profile"
 4. Check to see if profile file exists and add the needed configuration
 
 ```
-$ vi /var/lib/boot2docker/profile
-
-# Add lines  : 
+# Add following lines into file : /var/lib/boot2docker/profile
 export HTTP_PROXY=http://{proxy_host}:{proxy_port}
 export HTTPS_PROXY=https://{proxy_host}:{proxy_port}
 ```
