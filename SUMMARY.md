@@ -2,7 +2,7 @@
 
 * [About](README.md)
 * [SSH](ssh.md)
-   * SCP : Copy files and folder
+   * [SCP : Copy files and folder](scp__copy_files_and_folder.md)
 * [Commons](commons.md)
 * [Permissions](permissions.md)
 * Bash Scripting
