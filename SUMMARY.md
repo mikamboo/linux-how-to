@@ -3,6 +3,7 @@
 * [About](README.md)
 * [SSH](ssh.md)
 * Network
+   * Interfaces
 * [Permissions](permissions.md)
 * [Commons](commons.md)
 * Docker
