@@ -9,4 +9,6 @@ __AUTHORS__
 __LINKS__
 
 * [Bash-Prog-Intro-HOWTO](http://www.linuxdoc.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc8)
+
+
 ![](linux.png)
