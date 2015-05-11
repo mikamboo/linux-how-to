@@ -6,6 +6,4 @@ __AUTHORS__
 
 * [@_mikamboo](https://github.com/mikamboo)
 
-__LINKS__
-
 ![](linux.png)
