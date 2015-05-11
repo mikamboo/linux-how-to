@@ -1,8 +1,8 @@
 # Summary
 
 * [About](README.md)
-   * Network
 * [SSH](ssh.md)
+* Network
 * [Permissions](permissions.md)
 * [Commons](commons.md)
 * Docker
