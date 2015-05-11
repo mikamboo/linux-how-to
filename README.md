@@ -1,6 +1,6 @@
-# Linux How To ...
+# Linux Snipets
 
-Linux snippets book (debian based distributions)
+Linux snippets book (for debian based distributions)
 
 __AUTHORS__ 
 
