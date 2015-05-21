@@ -1,11 +1,14 @@
 # Linux Snipets
 
-Linux snippets book (for debian based distributions)
+Linux snippets book (for debian based distributions). 
 
-* [Gitbook](http://mikamboo.gitbooks.io/linux-snipets-book/content/)
+![](Linux-Logo.jpg)
 
-__AUTHORS__ 
+[Lecture sur Gitbook](http://mikamboo.gitbooks.io/linux-snipets-book/content/)
 
-* [@_mikamboo](https://github.com/mikamboo)
+___
 
-![](linux.png)
+__AUTHOR__ : @_mikamboo
+
+* [Fork book](https://github.com/mikamboo) 
+* [Follow me](https://twitter.com/_mikamboo)
