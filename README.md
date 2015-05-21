@@ -2,7 +2,7 @@
 
 Linux snippets book (for debian based distributions)
 
-* [Gitbook](https://www.gitbook.com/mikamboo)
+* [Gitbook](http://mikamboo.gitbooks.io/linux-snipets-book/content/)
 
 __AUTHORS__ 
 
