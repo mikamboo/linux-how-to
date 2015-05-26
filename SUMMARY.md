@@ -15,5 +15,6 @@
    * Docker
        * [Install and use](docker_install.md)
        * [Proxy](docker_proxy.md)
+       * Samples
    * [NodeJs & NPM](node_&_npm.md)
 
