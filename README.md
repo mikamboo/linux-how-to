@@ -12,3 +12,7 @@ __AUTHOR__ : @_mikamboo
 
 * [Fork book](https://github.com/mikamboo) 
 * [Follow me](https://twitter.com/_mikamboo)
+
+__TOOLS__
+
+* [Bash videos](https://asciinema.org/)
