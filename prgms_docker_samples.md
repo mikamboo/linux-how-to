@@ -18,5 +18,5 @@ Developping fullstack js client/server application with this simple Docker image
 $ sudo docker run -it --rm -v /home/me/myproject:/app -p 3000:3000 mikamboo/devbox
 ``` 
 
-* Palys with the box ...
+* Play with the box ...
 
