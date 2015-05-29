@@ -32,3 +32,5 @@ function magicFunc() {
     return 3;
 }
 {% endexercise %}
+
+TEST
