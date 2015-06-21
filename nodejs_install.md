@@ -1,11 +1,13 @@
-# Install NodeJs
+# Install NodeJs / Npm
 
-### Istallation for Ubuntu, Mint
+### Installation: simplest method
+
+Installing Node.js v0.12 Debian / Ubuntu repository
 
 ```bash
-sudo apt-get install python-software-properties python g++ make
-sudo add-apt-repository ppa:chris-lea/node.js
-sudo apt-get update
-sudo apt-get install nodejs
+# Note the new setup script name for Node.js v0.12
+curl -sL https://deb.nodesource.com/setup_0.12 | sudo bash -
+
+# Then install with:
+sudo apt-get install -y nodejs
 ```
-> NPM package manager is automatically installed during process.
