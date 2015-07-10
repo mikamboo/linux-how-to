@@ -10,7 +10,7 @@ ___
 
 __AUTHOR__ : @_mikamboo
 
-* [Fork book](https://github.com/mikamboo) 
+* [Fork this book](https://github.com/mikamboo/linux-snipets-book) 
 * [Follow me](https://twitter.com/_mikamboo)
 
 __TOOLS__
