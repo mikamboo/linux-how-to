@@ -8,7 +8,6 @@
 * Bash Scripting
 * Network
    * Interfaces
-   * Commons
 * System
    * Processes
 * My programs
