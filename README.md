@@ -16,4 +16,3 @@ __AUTHOR__ : @_mikamboo
 __TOOLS__
 
 * [Bash videos](https://asciinema.org/)
-
