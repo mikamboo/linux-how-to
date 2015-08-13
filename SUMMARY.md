@@ -1,7 +1,7 @@
 # Summary
 
 * [About](README.md)
-   * Disk
+* Disk
 * [SSH](ssh.md)
    * [SCP : Copy files and folder](scp__copy_files_and_folder.md)
 * [Commons](commons.md)
