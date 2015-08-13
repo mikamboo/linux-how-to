@@ -7,10 +7,10 @@
 ### ```du``` : Linux disk usage
 
 
-* Basique usage 
+Find out the disk usage summary of __/home/toto__ directory tree
 
 ```bash
-[root@tecmint]# du  /home/tecmint
+[root@myserver]# du  /home/toto
 ```
 
 
