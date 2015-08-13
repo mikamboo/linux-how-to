@@ -20,3 +20,4 @@ __TOOLS__
 __LINKS__
 
 * http://www.tecmint.com
+* http://www.openvim.com/tutorial.html
