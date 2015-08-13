@@ -10,9 +10,9 @@ ___
 
 __AUTHOR__ : @_mikamboo
 
-* [Fork this book](https://github.com/mikamboo/linux-snipets-book) 
-* [Follow me](https://twitter.com/_mikamboo)
+* [Fork this gitbook](https://github.com/mikamboo/linux-snipets-book) 
+* [Follow me on twitter](https://twitter.com/_mikamboo)
 
 __TOOLS__
 
-* [Bash videos](https://asciinema.org/)
+* [Bash videos: asciinema](https://asciinema.org/)
