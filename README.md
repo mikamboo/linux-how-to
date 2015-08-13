@@ -8,7 +8,7 @@ Linux snippets book (for debian based distributions).
 
 ___
 
-__AUTHOR__ : @_mikamboo
+__AUTHOR__ : M PAMBO O. (@_mikamboo)
 
 * [Fork this gitbook](https://github.com/mikamboo/linux-snipets-book) 
 * [Follow me on twitter](https://twitter.com/_mikamboo)
@@ -16,3 +16,7 @@ __AUTHOR__ : @_mikamboo
 __TOOLS__
 
 * [Bash videos: asciinema](https://asciinema.org/)
+
+__LINKS__
+
+* http://www.tecmint.com
