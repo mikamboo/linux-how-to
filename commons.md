@@ -8,3 +8,8 @@ __How to get systeme infos ?__
 __How to check process/ports usage ?__
 
     netstat -taupen
+    
+    
+__add user to sudoers__
+
+    adduser toto sudo
