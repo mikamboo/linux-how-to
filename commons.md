@@ -10,6 +10,6 @@ __How to check process/ports usage ?__
     netstat -taupen
     
     
-__Add user to sudoers__
+__Add user to sudoers group__
 
-    adduser toto sudo
+    adduser -aG toto sudo
