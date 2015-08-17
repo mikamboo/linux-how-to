@@ -4,7 +4,7 @@
 * [SSH](ssh.md)
    * [SCP : Copy files and folder](scp__copy_files_and_folder.md)
 * [Commons](commons.md)
-   * [Files zip, tar, gz](files_zip_tar_gz.md)
+* [Files zip, tar, gz](files_zip_tar_gz.md)
 * [Permissions](permissions.md)
 * Bash Scripting
 * Network
