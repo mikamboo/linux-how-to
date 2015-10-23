@@ -23,5 +23,4 @@
    * Create super user
 * [Docker](docker.md)
    * Install
-   * install
 
