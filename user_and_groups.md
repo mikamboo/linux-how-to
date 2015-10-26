@@ -2,15 +2,15 @@
 
 > Warning : You need to login as root before
 
-### Create user
+### Create user Kouakou
 
 ```bash
-$ useradd -m batman
+$ useradd -m kouakou
 ```
 
 
-### Setup A Password For Tom
+### Setup A Password For Kouakou
 
 ```bash 
-$ passwd batman
+$ passwd kouakou
 ```
