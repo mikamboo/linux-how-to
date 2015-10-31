@@ -1,4 +1,4 @@
-# How to setup NFS share on Ubuntu
+# Tuto : How to setup NFS share on Ubuntu
 
 __Source :__ [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-nfs-mount-on-ubuntu-14-04)
 
@@ -179,8 +179,9 @@ Open this file with root privileges in your text editor:
 
 At the bottom of the file, we're going to add a line for each of our shares. They will look like this:
 
-<pre><span class="highlight">1.2.3.4</span>:/home    /mnt/nfs/home   nfs auto,noatime,nolock,bg,nfsvers=4,intr,tcp,actimeo=1800 0 0
-<span class="highlight">1.2.3.4</span>:/var/nfs    /mnt/nfs/var/nfs   nfs auto,noatime,nolock,bg,nfsvers=4,sec=krb5p,intr,tcp,actimeo=1800 0 0
+<pre>
+1.2.3.4:/home    /mnt/nfs/home   nfs auto,noatime,nolock,bg,nfsvers=4,intr,tcp,actimeo=1800 0 0
+1.2.3.4:/var/nfs    /mnt/nfs/var/nfs   nfs auto,noatime,nolock,bg,nfsvers=4,sec=krb5p,intr,tcp,actimeo=1800 0 0
 </pre>
 
 The options that we are specifying here can be found in the man page that describes NFS mounting in the `fstab` file:
