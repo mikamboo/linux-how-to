@@ -3,7 +3,7 @@
 __Source :__ [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-nfs-mount-on-ubuntu-14-04)
 
 ## Introduction
-__
+
 NFS, or Network File System, is a distributed filesystem protocol that allows you to mount remote directories on your server. This allows you to leverage storage space in a different location and to write to the same space from multiple servers easily. NFS works well for directories that will have to be accessed regularly.
 
 In this guide, we'll cover how to configure NFS mounts on an Ubuntu 14.04 server.
