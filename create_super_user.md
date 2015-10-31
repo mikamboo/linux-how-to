@@ -5,6 +5,11 @@
 
 ```bash
 
+# Pass root user
+$ su - 
+
+# Create nyangy user with its home directory at "/home/nyangui"
+$ useradd -m -G sudo nyangui
 
 ```
 
