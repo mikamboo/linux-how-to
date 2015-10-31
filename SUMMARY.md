@@ -20,5 +20,5 @@
    * [NodeJs](node_js_npm.md)
        * [Install](nodejs_install.md)
 * [User and Groups](user_and_groups.md)
-   * Create super user
+   * [Create super user](create_super_user.md)
 
