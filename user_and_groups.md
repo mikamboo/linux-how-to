@@ -16,7 +16,7 @@ $ passwd kouakou
 ```
 
 
-### Add existing user to an existing group 
+### Add existing user to an existing group (ubuntu)
 
 ```bash 
 $ useradd -G {group-name} username
