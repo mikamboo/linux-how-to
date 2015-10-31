@@ -70,8 +70,9 @@ The files that you see will have some comments that will show you the general st
 
 So we want to create a line for each of the directories that we wish to share. Since in this example or client has an IP of `111.111.111.111`, our lines will look like this:
 
-<pre>/home       <span class="highlight">111.111.111.111</span>(rw,sync,no_root_squash,no_subtree_check)
-/var/nfs    <span class="highlight">111.111.111.111</span>(rw,sync,no_subtree_check)
+<pre>
+/home 111.111.111.111(rw,sync,no_root_squash,no_subtree_check)
+/var/nfs 111.111.111.111(rw,sync,no_subtree_check)
 </pre>
 
 We've explained everything here but the specific options we've enabled. Let's go over those now.
