@@ -8,11 +8,11 @@
    * [Files zip, tar, gz](files_zip_tar_gz.md)
    * [Permissions](permissions.md)
 * Bash Scripting
-   * Hello world 
+   * Hello world
 * Network
    * Interfaces
    * Files
-      * How to setup NFS share on Ubuntu
+       * [How to setup NFS share on Ubuntu](nfs_share_setup_ubuntu.md)
 * System
    * [Disk](disk.md)
 * Programs
