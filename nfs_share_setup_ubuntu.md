@@ -82,6 +82,15 @@ We've explained everything here but the specific options we've enabled. Let's go
 *   **no_subtree_check**: This option prevents subtree checking, which is a process where the host must check whether the file is actually still available in the exported tree for every request. This can cause many problems when a file is renamed while the client has it opened. In almost all cases, it is better to disable subtree checking.
 *   **no_root_squash**: By default, NFS translates requests from a root user remotely into a non-privileged user on the server. This was supposed to be a security feature by not allowing a root account on the client to use the filesystem of the host as root. This directive disables this for certain shares.
 
+
+**Tip** : Share for an IP range like ```192.168.0.x```
+
+```bash
+# Add in /etc/exports line a network mask lik '/24' :  
+
+/mnt/mikamboo/    192.168.0.0/24(rw,sync,no_root_squash,no_subtree_check)
+```
+
 When you are finished making your changes, save and close the file.
 
 Next, you should create the NFS table that holds the exports of your shares by typing:
@@ -102,14 +111,17 @@ We're going to have to mount the remote shares, so let's create some mount point
 
 The actual directories will correspond with their location on the host server. We can create each directory, and the necessary parent directories, by typing this:
 
-    sudo mkdir -p /mnt/nfs/home
-    sudo mkdir -p /mnt/nfs/var/nfs
+```
+sudo mkdir -p /mnt/nfs/home
+sudo mkdir -p /mnt/nfs/var/nfs
+```
 
 Now that we have some place to put our remote shares, we can mount them by addressing our host server, which in this guide is `1.2.3.4`, like this:
 
-<pre>sudo mount <span class="highlight">1.2.3.4</span>:/home /mnt/nfs/home
-sudo mount <span class="highlight">1.2.3.4</span>:/var/nfs /mnt/nfs/var/nfs
-</pre>
+```
+sudo mount 1.2.3.4:/home /mnt/nfs/home
+sudo mount 1.2.3.4:/var/nfs /mnt/nfs/var/nfs
+```
 
 These should mount the shares from our host computer onto our client machine. We can double check this by looking at the available disk space on our client server:
 
