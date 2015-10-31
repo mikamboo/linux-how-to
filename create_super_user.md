@@ -13,6 +13,15 @@ $ useradd -m -G sudo nyangui
 
 ```
 
+## Ajout d'un utilisateur existant à un groupe
+
+```bash
+
+# Exemple : ajouter le user "kouakou" au goupe "sudo"
+
+$ sudo usermod -aG sudo kouakou
+```
+
 
 ### Désactiver le mot de pass root
 
