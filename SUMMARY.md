@@ -11,6 +11,8 @@
    * Hello world 
 * Network
    * Interfaces
+   * Files
+      * How to setup NFS share on Ubuntu
 * System
    * [Disk](disk.md)
 * Programs
