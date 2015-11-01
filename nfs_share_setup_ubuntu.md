@@ -228,6 +228,14 @@ This will remove the remote shares, leaving only your local storage accessible:
 
 As you can see, our NFS shares are no longer available as storage space.
 
+* * *
+
+Show NFS mount of a specific server : ```showmount -e <NFS server name>```
+
+```bash
+$ showmount -e 192.168.0.44
+
+```
 ## Conclusion
 
 NFS provides a quick and easy way to access remote systems over a network. However, the protocol itself is not encrypted. If you are using this in a production environment, consider routing NFS over SSH or a VPN connection to create a more secure experience.
