@@ -9,6 +9,8 @@
    * [Permissions](permissions.md)
 * Bash Scripting
    * Hello world
+* Files
+   * [How to setup NFS share on Ubuntu](nfs_share_setup_ubuntu.md)
 * Network
    * Interfaces
    * Files
