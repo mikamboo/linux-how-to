@@ -10,7 +10,7 @@
 * Bash Scripting
    * Hello world
 * Network
-   * Interfaces
+   * [Interfaces](network_interfaces.md)
    * Files sharing
        * [How to setup NFS share on Ubuntu](nfs_share_setup_ubuntu.md)
 * System
