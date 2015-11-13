@@ -13,7 +13,7 @@ Il existe de très nombreux cas d'utilisation du RPI
 * Personal computer
 * Media center
 * Programming
-* Electronic & Robotics
+* Electronic & Robotic
 * Education
 * ...
 
