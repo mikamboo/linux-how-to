@@ -18,6 +18,6 @@ Il existe de très nombreux cas d'utilisation du RPI
 * ...
 
 
-### Links
+### More about PI
 
 * https://www.raspberrypi.org
