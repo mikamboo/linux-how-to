@@ -25,4 +25,5 @@
 * [User and Groups](user_and_groups.md)
    * [Create super user](create_super_user.md)
 * [Raspbery Pi](raspbery_pi.md)
+   * raspberry_pi_omxplayer.md
 
