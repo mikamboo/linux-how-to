@@ -24,5 +24,5 @@
        * [Install](nodejs_install.md)
 * [User and Groups](user_and_groups.md)
    * [Create super user](create_super_user.md)
-* Raspbery Pi
+* [Raspbery Pi](raspbery_pi.md)
 
