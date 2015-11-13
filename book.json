@@ -1,8 +1,7 @@
 {
     "plugins": [
         "video",
-        "youtube",
-        "exercises"
+        "youtube"
     ],
     "pluginsConfig": {}
 }
