@@ -8,7 +8,7 @@
    * [Files zip, tar, gz](files_zip_tar_gz.md)
    * [Permissions](permissions.md)
    * [Donwloading: cURL, Wget](donwloading_curl_wget.md)
-       * test
+       * Use wget to download a web site
 * Bash Scripting
    * Hello world
 * Network
