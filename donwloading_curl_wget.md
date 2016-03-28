@@ -1,6 +1,6 @@
 # Donwloading: cURL, Wget
 
-How to dowload an entire web site with wget ? (Aka web scrapping)
+How to download an entire web site with wget ? (Aka web scrapping)
 
 ```bash
 $ wget \
