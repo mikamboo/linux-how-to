@@ -28,3 +28,5 @@ The options are:
 `--restrict-file-names=windows` : modify filenames so that they will work in Windows as well.
 `--no-clobber` : don't overwrite any existing files (used in case the download is interrupted and
 resumed).
+
+__Source :__ http://www.linuxjournal.com/content/downloading-entire-web-site-wget
