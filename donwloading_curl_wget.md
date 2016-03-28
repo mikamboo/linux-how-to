@@ -4,6 +4,10 @@
 Basic usage
 
 ```bash
-$ wget www.website.org/tutorials/tudo.dpf
+# Download tuto.pdf file
+$ wget www.website.org/tutorials/tuto.pdf
+
+# Get index page
+$ curl http://www.website.org > website.html
 ```
 
