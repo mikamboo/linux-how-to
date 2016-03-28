@@ -7,7 +7,7 @@
    * [Processes](processes.md)
    * [Files zip, tar, gz](files_zip_tar_gz.md)
    * [Permissions](permissions.md)
-   * Donwloading: cURL, Wget
+   * [Donwloading: cURL, Wget](donwloading_curl_wget.md)
 * Bash Scripting
    * Hello world
 * Network
