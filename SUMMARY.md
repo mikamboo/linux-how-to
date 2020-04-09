@@ -10,7 +10,7 @@
   * [Donwloading: cURL, Wget](commons/donwloading_curl_wget/README.md)
     * [Use wget to download a web site](commons/donwloading_curl_wget/use_wget_to_download_a_web_site.md)
 * [Bash Scripting](bash-scripting/README.md)
-  * [Hello world](bash-scripting/hello-world.md)
+  * [Shebang](bash-scripting/hello-world.md)
 * [Network](network/README.md)
   * [Interfaces](network/network_interfaces.md)
   * [Files sharing](network/files-sharing/README.md)
