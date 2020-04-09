@@ -1,6 +1,6 @@
-# Install NodeJs / Npm
+# Install
 
-### Installation: simplest method
+## Installation: simplest method
 
 Installing Node.js v0.12 Debian / Ubuntu repository
 
@@ -12,5 +12,5 @@ curl -sL https://deb.nodesource.com/setup_0.12 | sudo bash -
 sudo apt-get install -y nodejs
 ```
 
+**Source :** [Node.js-via-package-manager](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager)
 
-__Source :__ [Node.js-via-package-manager](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager)

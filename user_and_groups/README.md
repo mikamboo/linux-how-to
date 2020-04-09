@@ -2,23 +2,21 @@
 
 > Warning : You need to login as root before
 
-### Create user Kouakou
+## Create user Kouakou
 
 ```bash
 $ useradd -m kouakou
 ```
 
+## Setup A Password For Kouakou
 
-### Setup A Password For Kouakou
-
-```bash 
+```bash
 $ passwd kouakou
 ```
 
+## Add existing user to an existing group \(ubuntu\)
 
-### Add existing user to an existing group (ubuntu)
-
-```bash 
+```bash
 $ useradd -G {group-name} username
 
 

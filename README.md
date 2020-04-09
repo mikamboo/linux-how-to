@@ -1,24 +1,24 @@
-# Linux Snipets
+# About
 
-Linux snippets book (for debian based distributions). 
+Linux snippets book \(for debian based distributions\).
 
-![](Linux-Logo.jpg)
+![](.gitbook/assets/linux-logo.jpg)
 
 [Lecture sur Gitbook](http://mikamboo.gitbooks.io/linux-snipets-book/content/)
 
-___
-
-__AUTHOR__ : M PAMBO O. (@_mikamboo)
+**AUTHOR** : M PAMBO O. \(@\_mikamboo\)
 
 * [Fork this gitbook](https://github.com/mikamboo/linux-snipets-book) 
 * [Follow me on twitter](https://twitter.com/_mikamboo)
 
-__TOOLS__
+**TOOLS**
 
 * [Bash videos: asciinema](https://asciinema.org/)
 
-__LINKS__
+**LINKS**
 
-* http://www.tecmint.com
-* http://www.openvim.com/tutorial.html
-* http://www.thegeekstuff.com/best-of-the-blog/
+* [http://www.tecmint.com](http://www.tecmint.com)
+* [http://www.openvim.com/tutorial.html](http://www.openvim.com/tutorial.html)
+* [http://www.thegeekstuff.com/best-of-the-blog/](http://www.thegeekstuff.com/best-of-the-blog/)
+* [https://www.tutorialspoint.com/unix/](https://www.tutorialspoint.com/unix/)
+

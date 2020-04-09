@@ -1,15 +1,11 @@
 # Interfaces
 
-
-### Network interfaces
-
+## Network interfaces
 
 Show network interfaces
 
 ```bash
 $ ifconfig
-
-
 ```
 
 Restart network interfaces
@@ -24,3 +20,4 @@ $ ifconfig eth0 down && ifconfig eth0 up
 # To renew or release an IP address for the eth0 interface
 $ sudo dhclient -r eth0
 ```
+

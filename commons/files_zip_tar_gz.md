@@ -1,17 +1,12 @@
+# Files zip, tar, gz
 
-# Files : zip, tar, gz
-
-
-
-### Zip 
-
+## Zip
 
 * Make a zip file archive
-
 
 ```bash
 $ zip myfile.txt
 ```
 
+## Tar, Gz
 
-### Tar, Gz

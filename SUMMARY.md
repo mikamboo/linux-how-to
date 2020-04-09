@@ -1,31 +1,31 @@
-# Summary
+# Table of contents
 
 * [About](README.md)
-* [SSH](ssh.md)
-   * [SCP : Copy files and folder](scp__copy_files_and_folder.md)
-* [Commons](commons.md)
-   * [Processes](processes.md)
-   * [Files zip, tar, gz](files_zip_tar_gz.md)
-   * [Permissions](permissions.md)
-   * [Donwloading: cURL, Wget](donwloading_curl_wget.md)
-       * [Use wget to download a web site](use_wget_to_download_a_web_site.md)
-* Bash Scripting
-   * Hello world
-* Network
-   * [Interfaces](network_interfaces.md)
-   * Files sharing
-       * [How to setup NFS share on Ubuntu](nfs_share_setup_ubuntu.md)
-* System
-   * [Disk](disk.md)
-* Programs
-   * [Docker](docker.md)
-       * [Install and use](docker_install.md)
-       * [Proxy](docker_proxy.md)
-       * [Samples](prgms_docker_samples.md)
-   * [NodeJs](node_js_npm.md)
-       * [Install](nodejs_install.md)
-* [User and Groups](user_and_groups.md)
-   * [Create super user](create_super_user.md)
-* [Raspbery Pi](raspbery_pi.md)
-   * raspberry_pi_omxplayer.md
+* [SSH](ssh/README.md)
+  * [SCP : Copy files and folder](ssh/scp__copy_files_and_folder.md)
+* [Commons](commons/README.md)
+  * [Processes](commons/processes.md)
+  * [Files zip, tar, gz](commons/files_zip_tar_gz.md)
+  * [Permissions](commons/permissions.md)
+  * [Donwloading: cURL, Wget](commons/donwloading_curl_wget/README.md)
+    * [Use wget to download a web site](commons/donwloading_curl_wget/use_wget_to_download_a_web_site.md)
+* [Bash Scripting](bash-scripting/README.md)
+  * [Hello world](bash-scripting/hello-world.md)
+* [Network](network/README.md)
+  * [Interfaces](network/network_interfaces.md)
+  * [Files sharing](network/files-sharing/README.md)
+    * [How to setup NFS share on Ubuntu](network/files-sharing/nfs_share_setup_ubuntu.md)
+* [System](system/README.md)
+  * [Disk](system/disk.md)
+* [Programs](programs/README.md)
+  * [Docker](programs/docker/README.md)
+    * [Install and use](programs/docker/docker_install.md)
+    * [Proxy](programs/docker/docker_proxy.md)
+    * [Samples](programs/docker/prgms_docker_samples.md)
+  * [NodeJs](programs/nodejs/README.md)
+    * [Install](programs/nodejs/nodejs_install.md)
+* [User and Groups](user_and_groups/README.md)
+  * [Create super user](user_and_groups/create_super_user.md)
+* [Raspbery Pi](raspbery_pi/README.md)
+  * [raspberry\_pi\_omxplayer.md](raspbery_pi/raspberry_pi_omxplayer.md.md)
 

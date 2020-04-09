@@ -1,54 +1,53 @@
-# Docker 
+# Install and use
 
-### Install Docker
-___
+## Install Docker
 
-    sudo apt-get update
-    sudo apt-get install docker.io
-    source /etc/bash_completion.d/docker.io
-    sudo docker -v
+```text
+sudo apt-get update
+sudo apt-get install docker.io
+source /etc/bash_completion.d/docker.io
+sudo docker -v
 
-    # if [ERROR :  Error loading docker apparmor profile: exec...] for linux Mint
-    sudo apt-get install apparmor
-    
+# if [ERROR :  Error loading docker apparmor profile: exec...] for linux Mint
+sudo apt-get install apparmor
+```
 
-### Docker commons commands
-___
+## Docker commons commands
 
-    # Show running containers
-    sudo docker ps
-    
-    # Show all containers
-    sudo docker ps -a
-    
-    # Show images
-    sudo docker images    
-    
-    # Delete containers
-    sudo docker rm container_name_or_id
+```text
+# Show running containers
+sudo docker ps
 
-    # Delete image
-    sudo docker rmi image_name_or_id
-    
+# Show all containers
+sudo docker ps -a
 
-### Docker cleanup commands
-___
+# Show images
+sudo docker images    
+
+# Delete containers
+sudo docker rm container_name_or_id
+
+# Delete image
+sudo docker rmi image_name_or_id
+```
+
+## Docker cleanup commands
 
 ```bash
 # Kill all running containers
 docker kill $(docker ps -q)
-    
+
 # Delete all stopped containers (including data-only containers)
 docker rm $(docker ps -a -q)
-    
+
 # Delete all ‘untagged/dangling’ (<none>) images
 docker rmi $(docker images -q -f dangling=true)
-    
+
 # Delete ALL images (DANGER)
 docker rmi $(docker images -q)
- ```   
+```
 
-__It might also be useful to create bash aliases for these commands, for example:__
+**It might also be useful to create bash aliases for these commands, for example:**
 
 ```bash
 # ~/.bash_aliases
@@ -65,3 +64,4 @@ alias dockercleani='printf "\n>>> Deleting untagged images\n\n" && docker rmi $(
 # Delete all stopped containers and untagged images.
 alias dockerclean='dockercleanc || true && dockercleani'
 ```
+

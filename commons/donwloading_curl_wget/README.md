@@ -1,17 +1,15 @@
 # Donwloading: cURL, Wget
 
-
 Basic usage
 
+## wget
 
-### wget
 ```bash
 # Download tuto.pdf file
 $ wget www.website.org/tutorials/tuto.pdf
 ```
 
-
-### cURL
+## cURL
 
 ```bash
 # Get index page
