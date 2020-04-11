@@ -1,8 +1,10 @@
 # Table of contents
 
 * [About](README.md)
-* [Conditions](conditions.md)
 * [Commons](commons/README.md)
+  * [Conditions](commons/conditions.md)
+  * [Loop](commons/loop/README.md)
+    * [For ...](commons/loop/for-....md)
   * [Processes](commons/processes.md)
   * [Files zip, tar, gz](commons/files_zip_tar_gz.md)
   * [Permissions](commons/permissions.md)
@@ -10,8 +12,6 @@
     * [Use wget to download a web site](commons/donwloading_curl_wget/use_wget_to_download_a_web_site.md)
 * [SSH](ssh/README.md)
   * [SCP : Copy files and folder](ssh/scp__copy_files_and_folder.md)
-* [Loop](loop/README.md)
-  * [For ...](loop/for-....md)
 * [Bash Scripting](bash-scripting/README.md)
   * [Shebang](bash-scripting/hello-world.md)
 * [Network](network/README.md)
