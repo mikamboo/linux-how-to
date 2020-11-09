@@ -2,7 +2,7 @@
 
 Linux snippets book \(for debian based distributions\).
 
-![](.gitbook/assets/linux-logo.jpg)
+![](.gitbook/assets/Linux-Logo.jpg)
 
 [Lecture sur Gitbook](http://mikamboo.gitbooks.io/linux-snipets-book/content/)
 

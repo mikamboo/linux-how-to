@@ -11,6 +11,7 @@
   * [Donwloading: cURL, Wget](commons/donwloading_curl_wget/README.md)
     * [Use wget to download a web site](commons/donwloading_curl_wget/use_wget_to_download_a_web_site.md)
 * [SSH](ssh/README.md)
+  * [SSH Server](ssh/ssh-server.md)
   * [SCP : Copy files and folder](ssh/scp__copy_files_and_folder.md)
 * [Bash Scripting](bash-scripting/README.md)
   * [Shebang](bash-scripting/hello-world.md)
