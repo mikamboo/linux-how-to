@@ -21,6 +21,7 @@
     * [How to setup NFS share on Ubuntu](network/files-sharing/nfs_share_setup_ubuntu.md)
 * [System](system/README.md)
   * [Disk](system/disk.md)
+  * [Services](system/services.md)
 * [Programs](programs/README.md)
   * [Docker](programs/docker/README.md)
     * [Install and use](programs/docker/docker_install.md)
