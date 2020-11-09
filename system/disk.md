@@ -32,3 +32,7 @@ To see the information of only device **/home** file system in human readable fo
 df -hT /home
 ```
 
+## Use `du` and `dh` commands : live Demo
+
+TODO
+

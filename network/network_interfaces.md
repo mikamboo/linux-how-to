@@ -6,6 +6,10 @@ Show network interfaces
 
 ```bash
 $ ifconfig
+
+# or
+
+ip a
 ```
 
 Restart network interfaces
