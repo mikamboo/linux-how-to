@@ -32,5 +32,6 @@
 * [User and Groups](user_and_groups/README.md)
   * [Create super user](user_and_groups/create_super_user.md)
 * [Raspbery Pi](raspbery_pi/README.md)
+  * [Untitled](raspbery_pi/untitled.md)
   * [raspberry\_pi\_omxplayer.md](raspbery_pi/raspberry_pi_omxplayer.md.md)
 
